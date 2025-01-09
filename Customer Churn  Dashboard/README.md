@@ -27,3 +27,9 @@ This project analyzes customer churn for an internet service provider using a Po
   - Revenue trends.
 - **Interactive Filters**: Age, contract type, internet service, and region.
 
+![image](https://github.com/user-attachments/assets/2effecb8-e626-4f1f-bfa5-64959500233b)
+
+
+
+![image](https://github.com/user-attachments/assets/8c8f9db8-167c-46da-9a89-6bc93bcd8948)
+

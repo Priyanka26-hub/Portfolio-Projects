@@ -14,22 +14,29 @@ This project analyzes customer churn for an internet service provider using a Po
 - **Excel**: Data pre-processing
 
 ## 📂 Repository Contents
-- `/Data`: Dataset used for the project (CSV format).
+- `/cleaned_internet_service_churn_cleaned`: Dataset used for the project (CSV format).
 - `/Dashboard`: Power BI dashboard file (`.pbix`).
-- `/Images`: Screenshots of the dashboard visuals for quick overview.
-- `/Scripts`: Any preprocessing scripts used.
+- `/SQL Queries`: Any preprocessing scripts used.
 
 ## 📈 Dashboard Features
-- **KPIs**: Churn Rate, Retention Rate, Average Revenue Per User.
+- **KPIs**: Churn Rate, Retention Rate
 - **Visualizations**:
   - Churn percentage by service type.
   - Demographics of churned customers.
   - Revenue trends.
-- **Interactive Filters**: Age, contract type, internet service, and region.
-
-![image](https://github.com/user-attachments/assets/2effecb8-e626-4f1f-bfa5-64959500233b)
 
 
+![image](https://github.com/user-attachments/assets/d7f46b01-45f0-4745-a5e3-9d96628857d0)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/8c8f9db8-167c-46da-9a89-6bc93bcd8948)
 
+
+Insights
+1. The Customer churn rate is 55.4% which is a huge chunk of customers, 40049 customers have left.
+2. Customers joining in the first 3 months are leaving the company, suggesting that newer customerrs are churning more frequently than long-term customers.
+3. Customers with no contract left are churning the most, that might indicate dissatisfaction in the service or better competitor offers.
+4. Customers that have raised servive complaints are churning, although interestingly customers that haven't raised any complaints are also churning. This might suggest difficulty in lodging complaints.
+   

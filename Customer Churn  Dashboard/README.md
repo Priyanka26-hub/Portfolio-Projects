@@ -1,12 +1,12 @@
 # Internet Service Provider Customer Churn Analysis Dashboard
 
 ## Project Overview
-This project analyzes customer churn for an internet service provider using a Power BI dashboard. The goal is to provide actionable insights into customer retention strategies, service performance, and revenue optimization.
+This project analyzes customer churn for an internet service provider using a Power BI dashboard. The goal is to provide actionable insights into customer retention strategies, service performance..
 
 ## 🎯 Objectives
 - **Churn Analysis**: Measure the churn rate and identify key factors contributing to churn.
 - **Customer Insights**: Segment customers based on services, tenure, and demographics to predict churn likelihood.
-- **Financial Impact**: Assess the revenue impact of churn and opportunities for revenue growth.
+
 
 ## 🛠Tools and Technologies
 - **Power BI**: Data visualization and dashboard creation.
